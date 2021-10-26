@@ -3,7 +3,6 @@
 
 # Bikcraft - Bicicletas Personalizadas
 
-Você pode acessar o projeto clicando [aqui](https://rhuanbello.github.io/bikcraft/).
 
 ![Untitled%20dc19e953f9544183a9e68887c8b19a15/Untitled.png](https://i.imgur.com/95kpWud.png)
 
@@ -34,15 +33,10 @@ Ao longo do curso aprendemos os princípios da Teoria do Design (forma, espaço,
 
 ---
 
-## 🌐 Demonstração
-
-Você pode acessar o projeto clicando [aqui](https://rhuanbello.github.io/bikcraft/).
 
 💻 **Versão para Desktop**
 
 ![https://i.imgur.com/NvFlzHo.png](https://i.imgur.com/NvFlzHo.png)
-
-Você pode acessar o projeto clicando [aqui](https://rhuanbello.github.io/bikcraft/).
 
 📱 **Versão para Smartphone e para Ipad**
 
@@ -50,7 +44,6 @@ Você pode acessar o projeto clicando [aqui](https://rhuanbello.github.io/bikcra
 
 ![https://i.imgur.com/19osPfE.png](https://i.imgur.com/19osPfE.png)
 
-Você pode acessar o projeto clicando [aqui](https://rhuanbello.github.io/bikcraft/).
 
 ---
 
